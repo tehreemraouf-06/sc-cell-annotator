@@ -1,0 +1,5 @@
+model,macroF1_within,macroF1_cross
+LogReg,0.987,0.642
+LinearSVC,0.956,0.56
+RandomForest,0.906,0.581
+MLP,0.918,0.543
