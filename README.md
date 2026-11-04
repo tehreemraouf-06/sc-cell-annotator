@@ -3,7 +3,7 @@
 Supervised cell-type annotation benchmarked across two independent PBMC datasets,
 with confidence-based rejection and biological validation.
 
-**Live demo:** (add Streamlit link here after deployment)
+**Live demo:** https://sc-cell-annotator.streamlit.app/
 
 ## Problem
 Manual cell-type annotation in single-cell RNA-seq is slow and inconsistent between labs.
